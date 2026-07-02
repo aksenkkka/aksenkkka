@@ -1,4 +1,4 @@
-## I'm Kseniia, a full-time Software Engineer 👩‍💻| Machine Learning Enthusiast  
+## I'm Kseniia, a Software Engineer | Machine Learning Enthusiast  
   
 
 <a href="https://linkedin.com/in/romanovaks" target="_blank">
