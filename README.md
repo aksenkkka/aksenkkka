@@ -32,13 +32,13 @@ I’m passionate about continuously learning new technologies and expanding my e
 ## About me  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Building  backend  and machine learning projects  
+- Building  backend  and machine learning projects  
   
 
--  📌 Currently learning MLOps, Kubernetes, and DL Frameworks   
+- Currently learning MLOps, Kubernetes, and DL Frameworks   
   
 
-- 👩‍🎓Bachelor of Applied Mathematics  
+- Bachelor of Applied Mathematics  
 Faculty of Computer Systems and Applied Mathematics, KPI of Sikorsky  
 
 
